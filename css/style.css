@@ -1,0 +1,40 @@
+.logo-img{
+    width: 100px;
+    margin-left: 25%;
+    border-radius: 15%;
+}
+
+.sobre-nos{
+    background-color: darkslategray;
+}
+
+#navword{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 35px;
+    font-size: 35px;
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.img-sobrenos{
+    width: 500px;
+    border-radius:25px;
+    
+}
+
+.servicos{
+    background-color: lemonchiffon;
+}
+
+.img-servicos{
+    width: 400px;
+}
+
+.div-servicos{
+    padding-left: 50px;
+    
+}
